@@ -1,9 +1,40 @@
-.pizzaiola.title {
+.pizzaiola {
     color: black; 
     font-family: 'Helvetica Neue', sans-serif; 
     font-size: 100px; 
     font-weight: bold; 
     letter-spacing: -1px; 
-    line-height: 1; 
-    text-align: center;
+    line-height: 1;
+}
+
+.ingredients.title{
+    color: black; 
+    font-family: 'Helvetica Neue', sans-serif; 
+    font-size: 30px; 
+    font-weight: bold; 
+    letter-spacing: -1px; 
+    line-height: 1;
+}
+
+.preparation.title{
+    color: black; 
+    font-family: 'Helvetica Neue', sans-serif; 
+    font-size: 30px; 
+    font-weight: bold; 
+    letter-spacing: -1px; 
+    line-height: 1;
+}
+
+#pizzing {
+    color: black; 
+    font-family: 'Open Sans', sans-serif; 
+    font-size: 20px; 
+    font-weight: 300; 
+}
+
+#procedure {
+    color: black; 
+    font-family: 'Open Sans', sans-serif; 
+    font-size: 20px; 
+    font-weight: 300; 
 }
