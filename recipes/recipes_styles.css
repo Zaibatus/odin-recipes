@@ -1,0 +1,54 @@
+h1 {
+    color: black; 
+    font-family: 'Helvetica Neue', sans-serif; 
+    font-size: 100px; 
+    font-weight: bold; 
+    letter-spacing: -1px; 
+    line-height: 1;
+    text-align: center;
+}
+
+h2 {
+    color: black; 
+    font-family: 'Helvetica Neue', sans-serif; 
+    font-size: 30px; 
+    font-weight: bold; 
+    letter-spacing: -1px; 
+    line-height: 1;
+}
+
+
+ul {
+    color: black; 
+    font-family: 'Open Sans', sans-serif; 
+    font-size: 20px; 
+    font-weight: 300; 
+}
+
+p {
+    color: black; 
+    font-family: 'Open Sans', sans-serif; 
+    font-size: 20px; 
+    font-weight: 300; 
+}
+
+ol {
+    color: black; 
+    font-family: 'Open Sans', sans-serif; 
+    font-size: 20px; 
+    font-weight: 300; 
+}
+
+#home {
+    color: black; 
+    font-family: 'Open Sans', sans-serif; 
+    font-weight: bold;
+    font-size: 20px; 
+    font-weight: 300;   
+}
+
+img {
+    height: auto;
+    width: 500px;
+    background-position: center;
+}
