@@ -1,5 +1,4 @@
-
-.homepage.title {
+.pizzaiola.title {
     color: black; 
     font-family: 'Helvetica Neue', sans-serif; 
     font-size: 100px; 
@@ -8,13 +7,3 @@
     line-height: 1; 
     text-align: center;
 }
-
-.recipes.list {
-    color: black; 
-    font-family: 'Open Sans', sans-serif; 
-    font-size: 50px; 
-    font-weight: 300;  
-    text-align: center;
-}
-
-
