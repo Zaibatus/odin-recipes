@@ -1,5 +1,15 @@
 html {
-    background-color: aqua;
+    background-color: #0f5152;
+}
+
+.card {
+    width: 400px; /* 2 + 50 + 400 + 50 + 2 */
+    text-align: center;
+    background-color: #FFFAFA;
+    margin: 20px auto;
+    padding: 50px;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, .5); 
+
 }
 
 h1 {
@@ -12,7 +22,7 @@ h1 {
     text-align: center;
     border: 3px solid black;
     padding: 8px 8px;
-    background-color: antiquewhite;
+    background-color: #ffda81;
 }
 
 h2 {
@@ -65,7 +75,7 @@ ol {
 
 img {
     height: auto;
-    width: 500px;
+    width: 350px;
     background-position: center;
     text-align: center;
 }
