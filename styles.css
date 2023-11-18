@@ -4,7 +4,7 @@ html {
 
 body {
     margin: 2px black;
-    padding: 36px;
+    padding: 8px;
 }
 
 .homepage.title {
@@ -16,18 +16,22 @@ body {
     line-height: 1;
     text-align: center;
     border: 3px solid black;
-    border-color: black;
-    padding: 8px;
+    margin-bottom: 36px;
+    padding: 8px 16px;
+    background-color: antiquewhite;
 }
 
 .recipes.list {
     color: black; 
+    list-style-position: inside;
     font-family: 'Open Sans', sans-serif; 
     font-size: 50px; 
     font-weight: 300; 
     text-align: center;
     border: 3px solid black;
     margin: 0 auto;
+    padding: 36px 16px 36px 16px;
+    background-color: antiquewhite;
 }
 
 
