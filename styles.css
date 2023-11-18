@@ -7,10 +7,19 @@ body {
     padding: 8px;
 }
 
+.card {
+    width: 600px; /* 2 + 50 + 400 + 50 + 2 */
+    text-align: center;
+    background-color: #FFFAFA;
+    margin: 20px auto;
+    padding: 50px;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, .5); 
+}
+
 .homepage.title {
     color: black; 
-    font-family: 'Helvetica Neue', sans-serif; 
-    font-size: 100px; 
+    font-family: 'Helvetica', sans-serif; 
+    font-size: 70px; 
     font-weight: bold; 
     letter-spacing: -1px; 
     line-height: 1;

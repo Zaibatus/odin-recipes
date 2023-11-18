@@ -3,7 +3,7 @@ html {
 }
 
 .card {
-    width: 400px; /* 2 + 50 + 400 + 50 + 2 */
+    width: 600px; /* 2 + 50 + 400 + 50 + 2 */
     text-align: center;
     background-color: #FFFAFA;
     margin: 20px auto;
