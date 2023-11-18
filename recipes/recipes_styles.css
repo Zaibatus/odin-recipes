@@ -6,7 +6,7 @@ html {
     width: 600px; /* 2 + 50 + 400 + 50 + 2 */
     text-align: center;
     background-color: #FFFAFA;
-    margin: 20px auto;
+    margin: 100px auto;
     padding: 50px;
     box-shadow: 1px 1px 4px rgba(0, 0, 0, .5); 
 
@@ -20,9 +20,7 @@ h1 {
     letter-spacing: -1px; 
     line-height: 1;
     text-align: center;
-    border: 3px solid black;
-    padding: 8px 8px;
-    background-color: #ffda81;
+    margin-top: 8px;
 }
 
 h2 {
@@ -78,4 +76,12 @@ img {
     width: 350px;
     background-position: center;
     text-align: center;
+}
+
+button {
+    border: 3px solid black;
+    margin: 16px;
+    padding: 8px 16px;
+    background-color: #ffda81;
+
 }
